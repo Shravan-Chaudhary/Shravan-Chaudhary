@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **React, NextJs Projets**
 
-- 🤝 I’m looking for help with **Project Management App**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-app-five-vert.vercel.app/](https://portfolio-app-five-vert.vercel.app/)
 
 - 💬 Ask me about **React Js**
