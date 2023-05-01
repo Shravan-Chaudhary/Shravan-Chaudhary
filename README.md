@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shravansinghchaudhary@gmail.com**
 
-- ⚡ Fun fact **I play fps games**
+- ⚡ Fun fact **I play fps games (valorant)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
