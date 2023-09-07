@@ -1,32 +1,42 @@
-<h1 align="center">Hi 👋, I'm Shravan</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
-<img align="right" width="400 alt="coding" src="https://img.freepik.com/premium-vector/cute-astronaut-floating-with-laptop-planet-space-cartoon-vector-icon-illustration-science_138676-4665.jpg?w=2000">
+## Hey there, Shravan this side!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shravan-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="shravan-chaudhary" /> </p>
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on **Apple Store E-commerce app**
+- 🤔 &nbsp; Fullstack Developer.
+- 💼 &nbsp; 
+- 🌱 &nbsp;
+- ⚡️ &nbsp; Fun fact: I like playing FPS games.
 
-- 🌱 I’m currently learning **Next Js**
+---
 
-- 👯 I’m looking to collaborate on **React, NextJs Projets**
+### 🛠 &nbsp;Languages and Tools
 
-- 👨‍💻 All of my projects are available at [https://portfolio-app-five-vert.vercel.app/](https://portfolio-app-five-vert.vercel.app/)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)  
+  ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)    
 
-- 💬 Ask me about **React Js**
+---
 
-- 📫 How to reach me **shravansinghchaudhary@gmail.com**
+### ⚙️ &nbsp;GitHub Analytics
 
-- ⚡ Fun fact **I play fps games (valorant).**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<a href="https://github.com/Shravan-Chaudhary">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhamSarda&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhamSarda&layout=compact&langs_count=8&theme=buefy"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravan-chaudhary&show_icons=true&locale=en&layout=compact" alt="shravan-chaudhary" /></p>
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan-chaudhary&show_icons=true&locale=en" alt="shravan-chaudhary" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravan-chaudhary&" alt="shravan-chaudhary" /></p>
+---
