@@ -2,26 +2,26 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Fullstack Developer.
-- 💼 &nbsp; 
-- 🌱 &nbsp;
+- 🤔 &nbsp; Frontend Web Developer.
+- 💼 &nbsp; Currently Learning Next.js and Node.js
+- 🌱 &nbsp; Always ready to collaborate on a Next.js Project
 - ⚡️ &nbsp; Fun fact: I like playing FPS games.
 
 ---
 
 ### 🛠 &nbsp;Languages and Tools
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)  
-  ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)    
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+  ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  
 
 ---
 
@@ -37,6 +37,6 @@
 ---
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313zhon4ggk6dyvpjd57a5jh2sra&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
