@@ -5,7 +5,7 @@
 - 🤔 &nbsp; FullStack Web Developer.
 - 💼 &nbsp; Currently Learning Next.js and Node.js
 - 🌱 &nbsp; Always ready to collaborate on a Next.js Project
-- ⚡️ &nbsp; Fun fact: I like playing FPS games.
+- ⚡️ &nbsp; Fun fact: I like playing FPS games (Valorant).
 
 ---
 
