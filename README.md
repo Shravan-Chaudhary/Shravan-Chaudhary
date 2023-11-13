@@ -1,22 +1,25 @@
 
-# Hello, I'm Shravan! 👋
+# Hello, World! I'm Shravan 👋
 
+## 🚀 About Me
+I'm a Full Stack Developer with a passion for technology and a commitment to continuous learning. My journey in the tech world is driven by my curiosity and desire to understand and master the intricacies of the latest technologies. Like **Microservices**.
 
-## 👨🏻‍💻 About Me
+## 💼 Technical Skills
+I firmly believe in adhering to industry standards and best practices, which guide me in my quest to write robust and maintainable code. My proficiency in Object-Oriented Programming (OOP) principles and TypeScript is a testament to this belief. Here's a snapshot of my tech stack:
 
-I'm Shravan, a passionate Full Stack Developer on a journey of constant learning. My love for technology drives me to explore the fascinating world of microservices, where I'm diving into technologies like **Kafka**, **Docker**, **AWS** and **CI/CD**.
+- **Languages**: JavaScript, TypeScript
+- **Frontend**: Next.js, Recoil, Tailwind
+- **Backend**: Node.js, Express
+- **Databases**: PostgreSQL, MongoDB
+- **DevOps**: AWS, Docker, CI/CD
+- **Version Control**: Git, GitHub
 
-In my development journey, I adhere to industry standards and embrace best practices. Object-Oriented Programming (OOP) principles and TypeScript are my trusted companions in crafting robust and maintainable code.
-
-My current tech stack is a mix of power and versatility, including JavaScript, TypeScript, Next.js, Node.js, SQL, MongoDB, AWS, and Docker. I'm always up for a challenge, so if you have an exciting project or idea, let's collaborate!
+I'm always on the lookout for new technologies to learn and challenges to conquer. If you have a project or idea that you think could pique my interest, don't hesitate to reach out!
 
 ## 🎮 Hobbies
+When I'm not immersed in code, you'll likely find me in the thrilling world of first-person shooter (FPS) games. For me, gaming is not just a hobby, it's a passion that stokes my competitive spirit.
 
-Beyond coding, I'm a gamer at heart and find solace in the world of first-person shooter (FPS) games. Gaming is not just a hobby; it's a passion that fuels my competitive spirit.
-
-And when it's time to unwind, you can find me lost in the soothing melodies of music.
-
-Feel free to explore my GitHub repositories and connect with me. Let's learn, create, and grow together!
+And when I need a break from the digital world, I find solace in the soothing rhythms of music.
 
 
 ---
