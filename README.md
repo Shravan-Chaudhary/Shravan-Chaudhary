@@ -2,7 +2,7 @@
 # Hello, I'm Shravan 👋
 
 ## 🚀 About Me
-I'm a Full Stack Developer with a passion for technology and a commitment to continuous learning. My journey in the tech world is driven by my curiosity and desire to understand and master the intricacies of the latest technologies. Like **Microservices**.
+I'm a Full Stack Developer with a passion for technology and a commitment to continuous learning. My journey in the tech world is driven by my curiosity and desire to understand and master the intricacies of the latest technologies. 
 
 ## 💼 Technical Skills
 I firmly believe in adhering to industry standards and best practices, which guide me in my quest to write robust and maintainable code. My proficiency in Object-Oriented Programming (OOP) principles and TypeScript is a testament to this belief. Here's a snapshot of my tech stack:
