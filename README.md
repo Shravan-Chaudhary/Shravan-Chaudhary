@@ -34,7 +34,7 @@ I'm a Full Stack Developer with a passion for technology and a commitment to con
 
 <p align="center">
 <a href="https://github.com/Shravan-Chaudhary">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shravan-Chaudhary&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shravan-Chaudhary&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shravan-Chaudhary&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
