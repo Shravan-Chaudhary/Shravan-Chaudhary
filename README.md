@@ -6,12 +6,19 @@ I'm a Full Stack Developer with a passion for technology and a commitment to con
 
 ## 💼 Technical Skills
 
-- **Languages**: JavaScript, TypeScript
-- **Frontend**: Next.js, Recoil, Tailwind
-- **Backend**: Node.js, Express
-- **Databases**: PostgreSQL, MongoDB
-- **DevOps**: AWS, Docker, CI/CD
-- **Version Control**: Git, GitHub
+**Languages**: &nbsp;[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+
+**Frontend**: &nbsp;&nbsp;&nbsp;[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) [![Recoil](https://skillicons.dev/icons?i=redux)](https://recoiljs.org/) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
+
+**Backend**: &nbsp;&nbsp;&nbsp;[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+
+**Databases**: &nbsp;[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+
+**DevOps**: &nbsp;&nbsp;&nbsp;[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/) [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) [![CI/CD](https://skillicons.dev/icons?i=githubactions)](https://en.wikipedia.org/wiki/CI/CD)
+
+**Version**: &nbsp;&nbsp;&nbsp;[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+
+
 
 
 
