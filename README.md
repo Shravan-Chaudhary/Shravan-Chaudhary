@@ -1,8 +1,7 @@
 
-# Hello, I'm Shravan 👋
+## Hello, I'm Shravan 👋
 
-## 🚀 About Me
-I'm a Full Stack Developer with a passion for technology and a commitment to continuous learning. My journey in the tech world is driven by my curiosity and desire to understand and master the intricacies of the latest technologies. 
+A Full Stack Developer with a passion for technology and a commitment to continuous learning. My journey in the tech world is driven by my curiosity and desire to understand and master the intricacies of the latest technologies. 
 
 ## 💼 Technical Skills
 
@@ -22,7 +21,7 @@ I'm a Full Stack Developer with a passion for technology and a commitment to con
 
 
 
-## 🎮 Other Interests
+### 🎮 Other Interests
 - When I'm not knee-deep in code, catch me owning the battlefield in **FPS games**.
 - I unwind with the beats of **music** or hit the gym for a good **workout**.
 
