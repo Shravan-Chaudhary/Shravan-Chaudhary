@@ -3,5 +3,5 @@ I'm Shravan, **Fullstack developer** navigating challenges. No tech barriers, ju
 
 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,jest,tailwind,express,nodejs,git,github,postgres,aws,githubactions,docker,vscode,neovim,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,golang,react,nextjs,jest,tailwind,express,nodejs,git,github,postgres,aws,githubactions,docker,vscode,neovim,&theme=dark)](https://skillicons.dev)
 
