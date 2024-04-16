@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Shravan, **Fullstack developer** navigating challenges. No tech barriers, just problem-solving. I learn what it takes to get the job done. Currently wielding: 👇
+
+I'm Shravan, **Fullstack developer** navigating challenges. No tech stack. I learn what it takes to get the job done. Currently wielding: 👇
 
 Skills
 
