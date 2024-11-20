@@ -1,7 +1,12 @@
-
-I'm Shravan, **Fullstack developer** Currently using: 👇
-
-Skills
+#### Tech: 👇
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,golang,nextjs,kafka,aws,githubactions,docker,kubernetes,postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
+
+### Diving deeper into :
+
+- Microservices Architecture
+- Optimizing backend performace (scaling strategies)
+- Enhancing my devops practices
+
+
 
