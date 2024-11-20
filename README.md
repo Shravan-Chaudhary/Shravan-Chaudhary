@@ -5,7 +5,7 @@
 ### Diving deeper into :
 
 - Microservices Architecture
-- Optimizing backend performace (scaling strategies)
+- Optimizing backend performace
 - Enhancing my devops practices
 
 
