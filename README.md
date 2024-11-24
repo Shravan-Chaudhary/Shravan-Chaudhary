@@ -7,6 +7,7 @@
 - Microservices Architecture
 - Optimizing backend performace
 - Enhancing my devops practices
+- GraphQL
 
 
 
